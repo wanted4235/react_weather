@@ -54,5 +54,4 @@ export const GlobalSvgSelector = ({ id }: Props) => {
         default:
             return null;
     }
-    <div>GlobalSvgSelector</div>
 }
